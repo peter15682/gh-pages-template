@@ -1,9 +1,10 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: New Title
+description: My Webpage!
 show_downloads: True
 navigation:
   - title: Home
     url: /
   - title: Setup
-    url: setup
+    url: pza
+
