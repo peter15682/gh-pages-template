@@ -7,4 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: pza
-
+  - title: Assignment
+    url: niz
